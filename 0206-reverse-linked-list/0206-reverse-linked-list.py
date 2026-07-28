@@ -3,14 +3,14 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+
+def revfun(head):
+    if not head or not head.next: return head, head
+    smallHead, tail = revfun(head.next)
+    tail.next = head
+    head.next = None
+    return smallHead, head
+
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        curr = head
-        prev,nex = None,None
-        while curr:
-            nex = curr.next
-            curr.next = prev
-            prev = curr
-            curr = nex
-        head = prev
-        return head
+        return revfun(head)[0]
