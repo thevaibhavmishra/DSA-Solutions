@@ -9,6 +9,6 @@ class Solution:
         fast = head
         while fast and fast.next:
             slow = slow.next
-            fast = fast.next
-            if fast: fast = fast.next
+            fast = fast.next.next if fast.next else fast.next
+            #if fast: fast = fast.next
         return slow
