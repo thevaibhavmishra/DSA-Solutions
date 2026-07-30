@@ -16,8 +16,6 @@ def revFun(head):
     return prev
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        #l1 = revFun(l1)
-        #l2 = revFun(l2)
         ans = ListNode()
         tmp = ans
         carry = 0
