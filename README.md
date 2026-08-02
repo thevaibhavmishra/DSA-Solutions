@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0234-palindrome-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -68,4 +69,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
