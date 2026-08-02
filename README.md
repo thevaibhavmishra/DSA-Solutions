@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0234-palindrome-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+## Array
+|  |
+| ------- |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
