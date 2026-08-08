@@ -9,17 +9,15 @@ class Solution:
         """
         Do not return anything, modify root in-place instead.
         """
-        def dfs(root):
-            if not root: return root
-            if not root.left and not root.right:
-                return root
-            right = root.right
-            root.right = dfs(root.left)
-            root.left = None
-            temp = root
-            while temp.right:
-                temp = temp.right
-            temp.right = dfs(right)
-            return root
-        dfs(root)
+        curr = root
+        while curr:
+            if curr.left:
+                temp = curr.left
+                while temp.right:
+                    temp = temp.right
+                temp.right = curr.right
+                curr.right = curr.left
+                curr.left = None
+            curr = curr.right
+        
         
