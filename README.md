@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0508-most-frequent-subtree-sum](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0508-most-frequent-subtree-sum](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0965-univalued-binary-tree](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0965-univalued-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0508-most-frequent-subtree-sum](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0965-univalued-binary-tree](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0965-univalued-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0508-most-frequent-subtree-sum](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0965-univalued-binary-tree](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0965-univalued-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
@@ -134,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0508-most-frequent-subtree-sum](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0508-most-frequent-subtree-sum) |
 <!---LeetCode Topics End-->
