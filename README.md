@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -145,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0508-most-frequent-subtree-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
