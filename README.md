@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0508-most-frequent-subtree-sum) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0965-univalued-binary-tree](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0965-univalued-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0508-most-frequent-subtree-sum) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0965-univalued-binary-tree](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0965-univalued-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0508-most-frequent-subtree-sum) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0965-univalued-binary-tree](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0965-univalued-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0965-univalued-binary-tree](https://github.com/thevaibhavmishra/DSA-Solutions/tree/master/0965-univalued-binary-tree) |
 ## Binary Search Tree
 |  |
